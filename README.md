@@ -1,2 +1,5 @@
 # Amaal_Kart
-An e-commerce website for online shopping created using HTML, CSS, and JavaScript. The website includes a user-friendly interface with features such as adding items to a virtual shopping cart, removing items, and placing orders securely. Additionally, it incorporates responsive design to ensure a seamless shopping experience on various devices.
+# An E-commerce website for shopping. The website offers seamless functionality, allowing you to effortlessly add items to your cart, remove unwanted selections, and easily complete your purchase.
+That allows users to browse, search, and purchase products online. 
+# Technology Used are: 
+HTML, CSS, JavaScript, Reactjs.
